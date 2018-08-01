@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ByxNilsGFX/Friend-System
+branches:
+- master
+projects:
+  Friend-System:
+    path: ""
+...
