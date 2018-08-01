@@ -1,0 +1,10 @@
+name: Friends
+api: 4.0.0
+version: 0.1
+main: SlashMC\Friends
+author: SlashMC
+website: https://worldplanet.ml/
+commands:
+    friend:
+        description: FreundesSystem
+        aliases: [f, freunde, friends]
