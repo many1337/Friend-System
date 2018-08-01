@@ -1,0 +1,2 @@
+# Friend-System
+/f /friends
